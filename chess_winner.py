@@ -1,6 +1,3 @@
-#Indumini Jayakody
-#101109229
-
 #Prints the chessboard in a grid form
 def gridprint(chessboard):
 	for x in chessboard:
